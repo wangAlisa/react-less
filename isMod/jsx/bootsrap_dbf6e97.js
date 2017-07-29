@@ -1,0 +1,1 @@
+define("jsx/bootsrap.jsx",function(e){"use strict";var a=e("jsx/app.jsx");ReactDOM.render(React.createElement(a,{page:"home"}),app)});

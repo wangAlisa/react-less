@@ -1,0 +1,1 @@
+define("jsx/modules/banner.jsx",function(e,t,a){"use strict";var n=React.createClass({displayName:"Banner",render:function(){return React.createElement("div",{className:"banner"},React.createElement("div",{className:"container"},React.createElement("h2",null,this.props.title),React.createElement("p",null,this.props.info)))}});a.exports=n});
